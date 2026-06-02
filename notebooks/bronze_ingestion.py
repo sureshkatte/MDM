@@ -2,7 +2,7 @@
 # Ingest all CSV files into Bronze Delta Tables
 
 # Configure path to your uploaded files
-storage_path = "/Users/suresh.babu/MDM"
+storage_path = "/Workspace/Users/suresh.babu@accionlabs.com/MDM"
 bronze_schema = "workspace.sandbox_bronze"
 
 files = ["Product", "Region", "Reseller", "Salesperson", "SalespersonRegion", "Targets"]
